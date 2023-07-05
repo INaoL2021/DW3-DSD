@@ -1,0 +1,50 @@
+.her_container{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.obj_container{
+    width: auto;
+    height: auto;
+}
+
+.opt_cont{
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.her_titles_art{
+    background-color: rgb(209, 239, 237);
+    width: 800px;
+    height: auto;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid #4C988E;
+}
+
+.her_articles{
+    text-align: justify;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(209, 239, 237);
+    border: 1px solid #4C988E;
+    margin-bottom: 15px;
+    width: 1600px;
+    height: auto;
+}
+
+h2, p{
+    margin: 30px;
+}
+
+.her_img{
+    padding: 10px;
+    width: 300px;
+    height: 250px;
+}

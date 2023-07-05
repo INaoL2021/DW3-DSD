@@ -1,0 +1,54 @@
+.footer {
+    margin-top: 250px;
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    background-color: rgb(209, 228, 226);
+    padding: 20px 0;
+}
+
+.footer_container {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    margin-left: 700px;
+}
+
+.footer_container img {
+    width: 30px;
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    background-color: rgb(209, 228, 226);
+    width: 400px;
+    height: 60px;
+    color: black;
+}
+
+.icons:hover{
+    color: #6458F8;
+}
+
+.img_icon{
+    margin-left: 5px;
+}
+
+.input_consu{
+    background-color: white;
+    width: 340px;
+    height: 40px;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    border: solid 1px #6458F8;
+}
+
+.consultas{
+    margin-left: 100px;
+    color: black;
+}
